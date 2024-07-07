@@ -1,0 +1,36 @@
+{
+  "name": "learnreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vovakydr/learnReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vovakydr/learnReact/issues"
+  },
+  "homepage": "https://github.com/vovakydr/learnReact#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.45",
+    "@types/react": "^17.0.39",
+    "@types/webpack": "^5.28.5",
+    "html-webpack-plugin": "^5.6.0",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^4.9.5",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
